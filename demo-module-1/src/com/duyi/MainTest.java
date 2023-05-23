@@ -10,5 +10,8 @@ public class MainTest {
 
         System.out.println("hellow test");
 
+
+        System.out.println("hellow test");
+
     }
 }
