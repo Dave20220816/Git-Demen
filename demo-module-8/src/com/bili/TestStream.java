@@ -7,7 +7,7 @@ public class TestStream {
     public static void main(String[] args) {
         try {
             FileInputStream fileInputStream=new FileInputStream("D:/play/ggg/test.txt");
-            System.out.println("hello girls ");
+            System.out.println(" dddd");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
